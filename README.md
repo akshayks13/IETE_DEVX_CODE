@@ -76,6 +76,9 @@ Profile Page
 Report Page
 ![PHOTO-2025-03-18-17-18-17](https://github.com/user-attachments/assets/cdeb684e-d28b-438e-a443-37fd7dd9da4f)
 
+Leaderboard Page
+![PHOTO-2025-03-18-17-40-24](https://github.com/user-attachments/assets/e6a3799f-b7a0-45b8-8f64-d93705d20d67)
+
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to contribute and improve it!
