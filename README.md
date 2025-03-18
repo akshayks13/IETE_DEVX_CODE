@@ -3,12 +3,32 @@
 Welcome to the **Gamified Habit Tracker**, a fun and engaging way to build and maintain habits through gamification. This project is developed as part of **IETE's DEVX Code Event**.
 
 ## 🚀 Features
-- **Gamified Progression** – Earn points and level up as you complete habits.
-- **Streak Tracking** – Maintain streaks for consistent habit-building.
-- **Custom Habit Creation** – Add and customize your own habits.
-- **Leaderboard System** – Compete with friends and see where you rank.
-- **Daily Reminders** – Stay on track with timely notifications.
-- **Achievements & Rewards** – Unlock badges for milestones.
+## 🎮 Gamification & Competition
+
+This app not only helps you build habits but also adds an element of fun and competition:
+
+- Earn **points** by completing habits and tasks.
+- Compete with **friends on leaderboards** to see who is the most consistent.
+- Use **coins** earned in the app to unlock special features or rewards.
+
+## 📅 How It Works
+
+1. **Create Your Habits & Tasks** – Set up daily, weekly, or custom habits and to-do items.
+2. **Complete & Earn** – Mark habits and tasks as done to earn points and coins.
+3. **Track Your Progress** – View streaks, statistics, and leaderboards.
+4. **Compete & Improve** – Stay motivated by competing with friends and unlocking achievements.
+
+## 🔔 Stay on Track
+
+- Get **daily reminders** to complete your habits.
+- Track your **streaks** to maintain consistency.
+- View your **progress reports** and rankings.
+
+## 🏆 Achievements & Rewards
+
+- Unlock **badges** for completing milestones.
+- Earn **rewards** for maintaining streaks and hitting goals.
+- Redeem **coins** for in-app perks.
 
 ## 🛠️ Tech Stack
 - **Frontend**: Next.js
@@ -59,6 +79,8 @@ Report Page
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to contribute and improve it!
+
+Start your habit-building journey today and make self-improvement fun! 🚀
 
 ---
 
