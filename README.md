@@ -83,8 +83,14 @@ Leaderboard Page
 ![PHOTO-2025-03-18-17-40-24](https://github.com/user-attachments/assets/e6a3799f-b7a0-45b8-8f64-d93705d20d67)
 
 Working Prototype:
+1.DashBoard
 [Screencast from 2025-03-18 18-11-11.webm](https://github.com/user-attachments/assets/29d318d0-2924-45ff-8512-07feb5bb3014)
 
+2.Leaderboard
+[Screencast from 2025-03-18 18-17-06.webm](https://github.com/user-attachments/assets/761e47be-e41f-4c95-ab6d-d2a93b04f7cb)
+
+3.Profile
+[Screencast from 2025-03-18 18-18-42.webm](https://github.com/user-attachments/assets/9953a200-569a-4784-baff-80ed91858608)
 
 
 ## 📜 License
