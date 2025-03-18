@@ -82,6 +82,10 @@ Report Page
 Leaderboard Page
 ![PHOTO-2025-03-18-17-40-24](https://github.com/user-attachments/assets/e6a3799f-b7a0-45b8-8f64-d93705d20d67)
 
+Working Prototype:
+[Screencast from 2025-03-18 18-11-11.webm](https://github.com/user-attachments/assets/29d318d0-2924-45ff-8512-07feb5bb3014)
+
+
 
 ## 📜 License
 This project is licensed under the MIT License. Feel free to contribute and improve it!
