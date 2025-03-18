@@ -2,6 +2,9 @@
 
 Welcome to the **Gamified Habit Tracker**, a fun and engaging way to build and maintain habits through gamification. This project is developed as part of **IETE's DEVX Code Event**.
 
+![logo](https://github.com/user-attachments/assets/cd9d37fc-2aa2-41af-9ea4-003313c5c2ab)
+
+
 ## 🚀 Features
 ## 🎮 Gamification & Competition
 
