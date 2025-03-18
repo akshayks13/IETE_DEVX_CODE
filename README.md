@@ -25,12 +25,8 @@ Welcome to the **Gamified Habit Tracker**, a fun and engaging way to build and m
    ```sh
    npm install
    ```
-3. Configure environment variables in a `.env` file:
-   ```env
-   MONGO_URI=<your-mongodb-uri>
-   FIREBASE_API_KEY=<your-firebase-api-key>
-   ```
-4. Start the development server:
+   
+3. Start the development server:
    ```sh
    npm run dev
    ```
