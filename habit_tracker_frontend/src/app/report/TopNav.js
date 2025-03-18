@@ -1,15 +1,16 @@
 'use client';
+import Link from 'next/link';
 
 export default function TopNav() {
   return (
     <nav className="top-nav">
       <div className="nav-logo">Habit Tracker</div>
       <div className="nav-links">
-        <a className="nav-link" href="/">Home</a>
-        <a className="nav-link" href="/stats">Stats</a>
-        <a className="nav-link active" href="/report">Report</a>
-        <a className="nav-link" href="/settings">Settings</a>
-        <a className="nav-link" href="/profile">Profile</a>
+        <Link className="nav-link" href="/">Home</Link>
+        <Link className="nav-link" href="/stats">Stats</Link>
+        <Link className="nav-link active" href="/report">Report</Link>
+        <Link className="nav-link" href="/settings">Settings</Link>
+        <Link className="nav-link" href="/profile">Profile</Link>
       </div>
 
       <style jsx>{`
