@@ -27,13 +27,14 @@ export default function Todos() {
 
       {/* Add To-Do Input */}
       <div className="flex gap-2 mb-4">
-        <input
-          type="text"
-          value={newTodo}
-          onChange={(e) => setNewTodo(e.target.value)}
-          placeholder="Enter a task..."
-          className="p-2 rounded-lg text-black flex-grow"
-        />
+      <input
+  type="text"
+  value={newTodo}
+  onChange={(e) => setNewTodo(e.target.value)}
+  placeholder="Type your task here..."  // 🔥 Change this text
+  className="p-2 rounded-lg text-grey flex-grow"
+/>
+
         <button onClick={addTodo} className="bg-green-500 px-4 py-2 rounded-lg">
           Add
         </button>

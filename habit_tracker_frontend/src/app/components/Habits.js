@@ -58,7 +58,7 @@ export default function Habits() {
           value={newHabit}
           onChange={(e) => setNewHabit(e.target.value)}
           placeholder="Enter a new habit..."
-          className="p-2 rounded-lg text-black flex-grow"
+          className="p-2 rounded-lg text-grey flex-grow"
         />
         <button onClick={addHabit} className="bg-green-500 px-4 py-2 rounded-lg">
           Add
